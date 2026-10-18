@@ -1,0 +1,298 @@
+ChestPain,ExerciseAngina,MajorVessels,Thalassemia,HeartDisease
+Typical Angina,No,0 Vessels,Fixed Defect,0
+Asymptomatic,Yes,3 Vessels,Normal,1
+Asymptomatic,Yes,2 Vessels,Reversible Defect,1
+Non-anginal Pain,No,0 Vessels,Normal,0
+Atypical Angina,No,0 Vessels,Normal,0
+Atypical Angina,No,0 Vessels,Normal,0
+Asymptomatic,No,2 Vessels,Normal,1
+Asymptomatic,Yes,0 Vessels,Normal,0
+Asymptomatic,No,1 Vessel,Reversible Defect,1
+Asymptomatic,Yes,0 Vessels,Reversible Defect,1
+Asymptomatic,No,0 Vessels,Fixed Defect,0
+Atypical Angina,No,0 Vessels,Normal,0
+Non-anginal Pain,Yes,1 Vessel,Fixed Defect,1
+Atypical Angina,No,0 Vessels,Reversible Defect,0
+Non-anginal Pain,No,0 Vessels,Reversible Defect,0
+Non-anginal Pain,No,0 Vessels,Normal,0
+Atypical Angina,No,0 Vessels,Reversible Defect,1
+Asymptomatic,No,0 Vessels,Normal,0
+Non-anginal Pain,No,0 Vessels,Normal,0
+Atypical Angina,No,0 Vessels,Normal,0
+Typical Angina,Yes,0 Vessels,Normal,0
+Typical Angina,No,0 Vessels,Normal,0
+Atypical Angina,No,0 Vessels,Normal,1
+Non-anginal Pain,No,2 Vessels,Reversible Defect,1
+Asymptomatic,Yes,2 Vessels,Reversible Defect,1
+Non-anginal Pain,No,0 Vessels,Normal,0
+Non-anginal Pain,No,0 Vessels,Normal,0
+Typical Angina,No,0 Vessels,Normal,0
+Asymptomatic,No,0 Vessels,Normal,0
+Asymptomatic,Yes,0 Vessels,Reversible Defect,1
+Typical Angina,No,2 Vessels,Normal,0
+Asymptomatic,Yes,2 Vessels,Reversible Defect,1
+Non-anginal Pain,No,0 Vessels,Normal,1
+Asymptomatic,No,0 Vessels,Reversible Defect,0
+Non-anginal Pain,Yes,0 Vessels,Normal,0
+Asymptomatic,No,0 Vessels,Normal,0
+Asymptomatic,Yes,0 Vessels,Reversible Defect,1
+Asymptomatic,Yes,1 Vessel,Fixed Defect,1
+Asymptomatic,Yes,1 Vessel,Reversible Defect,1
+Non-anginal Pain,Yes,0 Vessels,Normal,0
+Asymptomatic,No,3 Vessels,Reversible Defect,1
+Typical Angina,Yes,0 Vessels,Reversible Defect,0
+Atypical Angina,No,2 Vessels,Normal,0
+Non-anginal Pain,No,0 Vessels,Normal,0
+Asymptomatic,No,0 Vessels,Normal,1
+Non-anginal Pain,No,1 Vessel,Reversible Defect,1
+Non-anginal Pain,No,0 Vessels,Normal,0
+Asymptomatic,No,0 Vessels,Reversible Defect,1
+Non-anginal Pain,No,1 Vessel,Normal,0
+Non-anginal Pain,No,0 Vessels,Normal,0
+Atypical Angina,No,1 Vessel,Normal,0
+Asymptomatic,No,0 Vessels,Reversible Defect,0
+Asymptomatic,No,1 Vessel,Normal,1
+Atypical Angina,No,0 Vessels,Normal,0
+Asymptomatic,Yes,1 Vessel,Reversible Defect,1
+Asymptomatic,Yes,1 Vessel,Reversible Defect,1
+Non-anginal Pain,No,1 Vessel,Reversible Defect,1
+Asymptomatic,No,0 Vessels,Reversible Defect,1
+Non-anginal Pain,No,1 Vessel,Normal,0
+Typical Angina,Yes,1 Vessel,Normal,0
+Asymptomatic,Yes,0 Vessels,Reversible Defect,1
+Non-anginal Pain,Yes,0 Vessels,Normal,0
+Asymptomatic,Yes,3 Vessels,Reversible Defect,1
+Non-anginal Pain,No,0 Vessels,Normal,0
+Asymptomatic,No,1 Vessel,Reversible Defect,1
+Asymptomatic,Yes,2 Vessels,Reversible Defect,1
+Non-anginal Pain,No,0 Vessels,Normal,1
+Non-anginal Pain,No,0 Vessels,Reversible Defect,0
+Asymptomatic,Yes,0 Vessels,Reversible Defect,1
+Non-anginal Pain,No,0 Vessels,Normal,1
+Non-anginal Pain,No,0 Vessels,Normal,0
+Asymptomatic,No,2 Vessels,Reversible Defect,1
+Asymptomatic,Yes,2 Vessels,Reversible Defect,1
+Asymptomatic,No,2 Vessels,Fixed Defect,1
+Asymptomatic,No,1 Vessel,Normal,1
+Non-anginal Pain,No,0 Vessels,Normal,0
+Asymptomatic,Yes,1 Vessel,Reversible Defect,1
+Non-anginal Pain,No,1 Vessel,Normal,0
+Atypical Angina,No,0 Vessels,Normal,0
+Asymptomatic,Yes,0 Vessels,Reversible Defect,1
+Asymptomatic,Yes,0 Vessels,Normal,0
+Asymptomatic,No,0 Vessels,Normal,0
+Non-anginal Pain,No,0 Vessels,Normal,0
+Non-anginal Pain,Yes,0 Vessels,Reversible Defect,1
+Atypical Angina,No,0 Vessels,Normal,0
+Non-anginal Pain,No,0 Vessels,Normal,0
+Non-anginal Pain,No,0 Vessels,Normal,0
+Asymptomatic,No,0 Vessels,Normal,0
+Non-anginal Pain,No,0 Vessels,Normal,0
+Asymptomatic,No,0 Vessels,Normal,0
+Asymptomatic,No,3 Vessels,Reversible Defect,1
+Non-anginal Pain,No,3 Vessels,Reversible Defect,0
+Non-anginal Pain,No,0 Vessels,Normal,0
+Non-anginal Pain,No,0 Vessels,Normal,0
+Asymptomatic,Yes,1 Vessel,Reversible Defect,1
+Asymptomatic,Yes,1 Vessel,Reversible Defect,1
+Asymptomatic,No,2 Vessels,Reversible Defect,1
+Atypical Angina,No,1 Vessel,Normal,0
+Asymptomatic,No,0 Vessels,Normal,0
+Asymptomatic,No,0 Vessels,Normal,0
+Typical Angina,No,0 Vessels,Normal,0
+Asymptomatic,No,1 Vessel,Normal,0
+Non-anginal Pain,No,1 Vessel,Normal,0
+Non-anginal Pain,No,3 Vessels,Reversible Defect,1
+Atypical Angina,No,0 Vessels,Reversible Defect,0
+Asymptomatic,Yes,1 Vessel,Reversible Defect,1
+Non-anginal Pain,No,1 Vessel,Reversible Defect,1
+Asymptomatic,Yes,1 Vessel,Reversible Defect,1
+Asymptomatic,No,0 Vessels,Reversible Defect,1
+Asymptomatic,Yes,0 Vessels,Reversible Defect,1
+Asymptomatic,Yes,1 Vessel,Normal,1
+Typical Angina,No,0 Vessels,Fixed Defect,0
+Asymptomatic,Yes,0 Vessels,Reversible Defect,1
+Non-anginal Pain,No,1 Vessel,Reversible Defect,1
+Atypical Angina,No,0 Vessels,Fixed Defect,0
+Non-anginal Pain,No,0 Vessels,Normal,0
+Asymptomatic,No,0 Vessels,Normal,0
+Asymptomatic,Yes,3 Vessels,Reversible Defect,1
+Asymptomatic,No,1 Vessel,Reversible Defect,1
+Asymptomatic,Yes,2 Vessels,Reversible Defect,1
+Asymptomatic,No,3 Vessels,Reversible Defect,1
+Non-anginal Pain,Yes,0 Vessels,Normal,0
+Asymptomatic,Yes,0 Vessels,Reversible Defect,1
+Typical Angina,No,1 Vessel,Normal,1
+Atypical Angina,No,0 Vessels,Normal,0
+Asymptomatic,Yes,2 Vessels,Reversible Defect,1
+Asymptomatic,Yes,1 Vessel,Reversible Defect,1
+Atypical Angina,No,0 Vessels,Normal,0
+Asymptomatic,No,0 Vessels,Normal,0
+Non-anginal Pain,No,0 Vessels,Reversible Defect,0
+Non-anginal Pain,Yes,1 Vessel,Reversible Defect,0
+Atypical Angina,No,0 Vessels,Normal,0
+Asymptomatic,Yes,0 Vessels,Normal,0
+Non-anginal Pain,No,0 Vessels,Normal,0
+Atypical Angina,No,0 Vessels,Normal,0
+Asymptomatic,Yes,0 Vessels,Reversible Defect,1
+Atypical Angina,No,1 Vessel,Reversible Defect,1
+Asymptomatic,Yes,0 Vessels,Reversible Defect,1
+Non-anginal Pain,No,0 Vessels,Normal,0
+Atypical Angina,Yes,0 Vessels,Normal,0
+Typical Angina,No,0 Vessels,Reversible Defect,1
+Atypical Angina,No,0 Vessels,Normal,0
+Non-anginal Pain,Yes,0 Vessels,Reversible Defect,1
+Non-anginal Pain,Yes,0 Vessels,Reversible Defect,0
+Non-anginal Pain,No,0 Vessels,Normal,1
+Asymptomatic,No,3 Vessels,Reversible Defect,1
+Non-anginal Pain,No,0 Vessels,Normal,0
+Atypical Angina,No,0 Vessels,Normal,0
+Non-anginal Pain,No,1 Vessel,Normal,0
+Typical Angina,No,0 Vessels,Reversible Defect,0
+Asymptomatic,No,0 Vessels,Normal,0
+Non-anginal Pain,No,0 Vessels,Reversible Defect,0
+Asymptomatic,Yes,1 Vessel,Reversible Defect,1
+Asymptomatic,Yes,1 Vessel,Normal,1
+Asymptomatic,No,3 Vessels,Normal,1
+Asymptomatic,Yes,0 Vessels,Reversible Defect,1
+Asymptomatic,No,2 Vessels,Reversible Defect,1
+Asymptomatic,No,2 Vessels,Reversible Defect,1
+Non-anginal Pain,No,1 Vessel,Reversible Defect,0
+Atypical Angina,No,0 Vessels,Reversible Defect,0
+Asymptomatic,Yes,3 Vessels,Normal,1
+Non-anginal Pain,No,0 Vessels,Normal,0
+Asymptomatic,No,0 Vessels,Normal,0
+Non-anginal Pain,No,2 Vessels,Normal,0
+Asymptomatic,Yes,0 Vessels,Reversible Defect,0
+Atypical Angina,Yes,1 Vessel,Normal,0
+Asymptomatic,Yes,0 Vessels,Reversible Defect,1
+Atypical Angina,No,0 Vessels,Normal,0
+Non-anginal Pain,Yes,1 Vessel,Reversible Defect,1
+Asymptomatic,Yes,0 Vessels,Reversible Defect,0
+Asymptomatic,Yes,0 Vessels,Normal,1
+Asymptomatic,No,0 Vessels,Normal,0
+Asymptomatic,No,2 Vessels,Fixed Defect,1
+Asymptomatic,Yes,1 Vessel,Reversible Defect,1
+Asymptomatic,No,3 Vessels,Reversible Defect,0
+Asymptomatic,Yes,1 Vessel,Fixed Defect,1
+Non-anginal Pain,No,1 Vessel,Normal,0
+Non-anginal Pain,No,3 Vessels,Normal,0
+Asymptomatic,No,0 Vessels,Reversible Defect,1
+Asymptomatic,Yes,2 Vessels,Reversible Defect,1
+Typical Angina,No,2 Vessels,Normal,0
+Typical Angina,No,0 Vessels,Reversible Defect,0
+Asymptomatic,No,0 Vessels,Normal,1
+Atypical Angina,No,2 Vessels,Normal,0
+Non-anginal Pain,No,0 Vessels,Reversible Defect,0
+Atypical Angina,Yes,3 Vessels,Fixed Defect,1
+Atypical Angina,No,1 Vessel,Reversible Defect,1
+Non-anginal Pain,No,3 Vessels,Reversible Defect,1
+Non-anginal Pain,No,0 Vessels,Normal,0
+Asymptomatic,Yes,3 Vessels,Reversible Defect,1
+Asymptomatic,No,3 Vessels,Normal,1
+Non-anginal Pain,No,0 Vessels,Normal,0
+Asymptomatic,Yes,2 Vessels,Normal,1
+Typical Angina,No,1 Vessel,Normal,0
+Asymptomatic,Yes,0 Vessels,Normal,0
+Atypical Angina,No,0 Vessels,Normal,0
+Typical Angina,No,0 Vessels,Normal,1
+Asymptomatic,No,0 Vessels,Normal,0
+Asymptomatic,Yes,0 Vessels,Normal,0
+Non-anginal Pain,No,1 Vessel,Reversible Defect,0
+Non-anginal Pain,No,0 Vessels,Reversible Defect,0
+Asymptomatic,No,0 Vessels,Reversible Defect,0
+Asymptomatic,Yes,3 Vessels,Reversible Defect,1
+Asymptomatic,Yes,2 Vessels,Reversible Defect,1
+Asymptomatic,Yes,0 Vessels,Reversible Defect,1
+Atypical Angina,No,0 Vessels,Normal,0
+Asymptomatic,Yes,0 Vessels,Normal,1
+Non-anginal Pain,No,0 Vessels,Normal,0
+Typical Angina,Yes,0 Vessels,Reversible Defect,1
+Non-anginal Pain,No,0 Vessels,Normal,0
+Asymptomatic,Yes,2 Vessels,Reversible Defect,1
+Asymptomatic,No,1 Vessel,Normal,1
+Typical Angina,No,0 Vessels,Reversible Defect,0
+Atypical Angina,No,0 Vessels,Normal,0
+Asymptomatic,Yes,0 Vessels,Normal,0
+Asymptomatic,No,2 Vessels,Normal,0
+Asymptomatic,No,0 Vessels,Normal,0
+Non-anginal Pain,Yes,0 Vessels,Normal,0
+Non-anginal Pain,No,0 Vessels,Normal,0
+Non-anginal Pain,No,0 Vessels,Normal,0
+Asymptomatic,Yes,2 Vessels,Reversible Defect,1
+Asymptomatic,Yes,2 Vessels,Normal,1
+Atypical Angina,No,0 Vessels,Normal,0
+Asymptomatic,No,0 Vessels,Normal,0
+Non-anginal Pain,No,1 Vessel,Normal,0
+Asymptomatic,Yes,1 Vessel,Normal,1
+Asymptomatic,Yes,1 Vessel,Normal,1
+Non-anginal Pain,No,0 Vessels,Normal,0
+Asymptomatic,Yes,0 Vessels,Normal,1
+Non-anginal Pain,No,3 Vessels,Normal,1
+Atypical Angina,Yes,1 Vessel,Normal,0
+Non-anginal Pain,No,1 Vessel,Normal,0
+Asymptomatic,Yes,2 Vessels,Normal,1
+Asymptomatic,Yes,0 Vessels,Reversible Defect,1
+Asymptomatic,No,0 Vessels,Reversible Defect,1
+Atypical Angina,No,0 Vessels,Normal,0
+Atypical Angina,No,0 Vessels,Normal,0
+Atypical Angina,No,0 Vessels,Normal,0
+Atypical Angina,No,0 Vessels,Normal,0
+Asymptomatic,No,0 Vessels,Normal,0
+Typical Angina,No,2 Vessels,Normal,1
+Non-anginal Pain,No,0 Vessels,Normal,0
+Asymptomatic,No,0 Vessels,Normal,1
+Asymptomatic,No,1 Vessel,Reversible Defect,1
+Asymptomatic,Yes,1 Vessel,Normal,1
+Asymptomatic,No,2 Vessels,Reversible Defect,1
+Atypical Angina,No,0 Vessels,Normal,0
+Asymptomatic,Yes,0 Vessels,Fixed Defect,0
+Asymptomatic,No,1 Vessel,Reversible Defect,1
+Asymptomatic,Yes,1 Vessel,Reversible Defect,0
+Non-anginal Pain,No,0 Vessels,Normal,0
+Asymptomatic,No,0 Vessels,Normal,0
+Non-anginal Pain,No,0 Vessels,Normal,0
+Asymptomatic,No,2 Vessels,Normal,0
+Non-anginal Pain,No,0 Vessels,Normal,0
+Atypical Angina,No,0 Vessels,Normal,0
+Atypical Angina,No,0 Vessels,Reversible Defect,1
+Non-anginal Pain,No,1 Vessel,Normal,0
+Atypical Angina,No,2 Vessels,Normal,1
+Typical Angina,No,0 Vessels,Normal,0
+Non-anginal Pain,No,0 Vessels,Normal,0
+Asymptomatic,Yes,1 Vessel,Normal,1
+Asymptomatic,Yes,0 Vessels,Fixed Defect,1
+Non-anginal Pain,No,1 Vessel,Fixed Defect,1
+Asymptomatic,No,0 Vessels,Reversible Defect,1
+Non-anginal Pain,No,0 Vessels,Normal,0
+Asymptomatic,Yes,1 Vessel,Reversible Defect,1
+Asymptomatic,No,0 Vessels,Fixed Defect,0
+Asymptomatic,Yes,2 Vessels,Reversible Defect,1
+Asymptomatic,No,0 Vessels,Normal,0
+Typical Angina,No,2 Vessels,Normal,1
+Typical Angina,No,0 Vessels,Reversible Defect,0
+Non-anginal Pain,No,1 Vessel,Normal,0
+Non-anginal Pain,No,0 Vessels,Normal,0
+Atypical Angina,No,1 Vessel,Normal,1
+Asymptomatic,No,0 Vessels,Normal,0
+Asymptomatic,Yes,1 Vessel,Reversible Defect,1
+Non-anginal Pain,No,0 Vessels,Normal,0
+Asymptomatic,Yes,1 Vessel,Reversible Defect,1
+Atypical Angina,No,0 Vessels,Normal,0
+Asymptomatic,No,1 Vessel,Reversible Defect,1
+Asymptomatic,No,3 Vessels,Fixed Defect,1
+Asymptomatic,Yes,2 Vessels,Fixed Defect,1
+Atypical Angina,No,0 Vessels,Reversible Defect,0
+Atypical Angina,No,0 Vessels,Normal,0
+Non-anginal Pain,No,0 Vessels,Reversible Defect,1
+Atypical Angina,No,0 Vessels,Normal,0
+Asymptomatic,Yes,0 Vessels,Fixed Defect,1
+Asymptomatic,Yes,2 Vessels,Reversible Defect,1
+Asymptomatic,Yes,0 Vessels,Normal,1
+Atypical Angina,No,0 Vessels,Normal,0
+Asymptomatic,No,2 Vessels,Fixed Defect,1
+Asymptomatic,Yes,0 Vessels,Reversible Defect,1
+Typical Angina,No,0 Vessels,Reversible Defect,1
+Asymptomatic,No,2 Vessels,Reversible Defect,1
+Asymptomatic,Yes,1 Vessel,Reversible Defect,1
+Atypical Angina,No,1 Vessel,Normal,1
